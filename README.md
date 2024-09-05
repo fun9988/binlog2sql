@@ -17,7 +17,7 @@ binlog2sql
 
 * 已测试环境
     * Python 2.7, 3.4+
-    * MySQL 5.6, 5.7
+    * MySQL 5.6, 5.7, 8.0
 
 
 安装
